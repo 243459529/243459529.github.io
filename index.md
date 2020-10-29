@@ -1,6 +1,6 @@
 #                  Welcome to 林浩楠‘s 个人主页
 
-## [信号与系统实践环节](https://github.com/243459529/XinHaoXiTong)+
+## [信号与系统实践环节](https://github.com/243459529/XinHaoXiTong)
 ### 实验一：申请GitHub账号，安装VCCODE并实现电脑端与云端的数据同步
 ### 实验二:基本的连续时间信号
 ###    · 1.[正弦函数x(t)=Asin(ωt+φ)](https://github.com/243459529/XinHaoXiTong/blob/master/sin.py)
